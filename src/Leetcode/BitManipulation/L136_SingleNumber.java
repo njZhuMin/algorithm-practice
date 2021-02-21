@@ -21,7 +21,7 @@ package Leetcode.BitManipulation;
 //
 // Related Topics 位运算 哈希表
 
-public class Q136_SingleNumber {
+public class L136_SingleNumber {
 
     public static void main(String[] args) {
         int[] arr1 = new int[]{2, 2, 1};

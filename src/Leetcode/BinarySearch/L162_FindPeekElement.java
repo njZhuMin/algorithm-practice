@@ -26,7 +26,7 @@ package Leetcode.BinarySearch;
 // Follow up: Your solution should be in logarithmic complexity.
 // Related Topics 数组 二分查找
 
-public class Q162_FindPeekElement {
+public class L162_FindPeekElement {
 
     public static void main(String[] args) {
         int[] arr1 = new int[]{1, 2, 3, 1};

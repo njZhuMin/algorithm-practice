@@ -19,7 +19,7 @@ package Leetcode.BitManipulation;
 
 import java.util.Arrays;
 
-public class Q260_SingleNumberIII {
+public class L260_SingleNumberIII {
 
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 1, 3, 2, 5};
